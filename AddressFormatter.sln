@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFormatter", "src\AddressFormatter\AddressFormatter.csproj", "{85515222-CFAA-4807-8DB2-B05BF7F93F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFormatter.Tests", "tests\AddressFormatter.Tests\AddressFormatter.Tests.csproj", "{372673F1-C050-4D43-96E7-316C0E872EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85515222-CFAA-4807-8DB2-B05BF7F93F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85515222-CFAA-4807-8DB2-B05BF7F93F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85515222-CFAA-4807-8DB2-B05BF7F93F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85515222-CFAA-4807-8DB2-B05BF7F93F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372673F1-C050-4D43-96E7-316C0E872EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372673F1-C050-4D43-96E7-316C0E872EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372673F1-C050-4D43-96E7-316C0E872EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372673F1-C050-4D43-96E7-316C0E872EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BF5C9D-38C9-4BE1-89F6-F765A73031B8}
+	EndGlobalSection
+EndGlobal
