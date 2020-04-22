@@ -2,12 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>Chris Jones</Authors>
     <Company>CJ TECH</Company>
     <Description>A library to build and format addresses. Initial release is for UK addresses, but more will be added.</Description>
     <RepositoryUrl>https://github.com/cmjchrisjones/CSharpAddressFormatter</RepositoryUrl>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <RootNamespace>CJTech.AddressFormatter</RootNamespace>
+    <AssemblyName>CJTech.AddressFormatter</AssemblyName>
   </PropertyGroup>
 
 </Project>
