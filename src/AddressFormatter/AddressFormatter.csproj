@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.0.1</Version>
+    <Authors>Chris Jones</Authors>
+    <Company>CJ TECH</Company>
+    <Description>A library to build and format addresses. Initial release is for UK addresses, but more will be added.</Description>
+    <RepositoryUrl>https://github.com/cmjchrisjones/CSharpAddressFormatter</RepositoryUrl>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
