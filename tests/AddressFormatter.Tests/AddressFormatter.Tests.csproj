@@ -4,6 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
 
     <IsPackable>false</IsPackable>
+
+    <AssemblyName>CJTech.AddressFormatter.Tests</AssemblyName>
+
+    <RootNamespace>CJTech.AddressFormatter.Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -15,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\AddressFormatter\AddressFormatter.csproj" />
     <ProjectReference Include="..\src\AddressFormatter\AddressFormatter.csproj" />
   </ItemGroup>
 

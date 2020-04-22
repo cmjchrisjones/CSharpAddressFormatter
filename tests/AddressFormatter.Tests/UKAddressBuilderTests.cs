@@ -1,8 +1,7 @@
 using FluentAssertions;
-using System;
 using Xunit;
 
-namespace AddressFormatter.Tests
+namespace CJTech.AddressFormatter.Tests
 {
     public class UKAddressBuilderTests
     {

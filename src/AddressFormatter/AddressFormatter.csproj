@@ -8,6 +8,8 @@
     <Description>A library to build and format addresses. Initial release is for UK addresses, but more will be added.</Description>
     <RepositoryUrl>https://github.com/cmjchrisjones/CSharpAddressFormatter</RepositoryUrl>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <RootNamespace>CJTech.AddressFormatter</RootNamespace>
+    <AssemblyName>CJTech.AddressFormatter</AssemblyName>
   </PropertyGroup>
 
 </Project>

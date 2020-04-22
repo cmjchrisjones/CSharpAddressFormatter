@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AddressFormatter
+﻿namespace CJTech.AddressFormatter
 {
     public class UKAddressBuilder
     {
